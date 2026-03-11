@@ -402,7 +402,7 @@ function attachGlobalListeners() {
 // ===== Init =====
 document.addEventListener('DOMContentLoaded', async () => {
   try {
-    const response = await fetch('dapim.json');
+    const response = await fetch('assets/dapim.json');
     talmudData = await response.json();
   } catch {
     document.getElementById('sedarim-container').innerHTML =
