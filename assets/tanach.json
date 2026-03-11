@@ -1,0 +1,321 @@
+{
+    "tanach": {
+        "sections": [
+            {
+                "division": "Torah",
+                "books": [
+                    {
+                        "name": "Bereishit",
+                        "chapters": 50
+                    },
+                    {
+                        "name": "Shemot",
+                        "chapters": 40
+                    },
+                    {
+                        "name": "Vayikra",
+                        "chapters": 27
+                    },
+                    {
+                        "name": "Bamidbar",
+                        "chapters": 36
+                    },
+                    {
+                        "name": "Devarim",
+                        "chapters": 34
+                    }
+                ]
+            },
+            {
+                "division": "Nevi'im",
+                "books": [
+                    {
+                        "name": "Yehoshua",
+                        "chapters": 24
+                    },
+                    {
+                        "name": "Shoftim",
+                        "chapters": 21
+                    },
+                    {
+                        "name": "Shmuel I",
+                        "chapters": 31
+                    },
+                    {
+                        "name": "Shmuel II",
+                        "chapters": 24
+                    },
+                    {
+                        "name": "Melachim I",
+                        "chapters": 22
+                    },
+                    {
+                        "name": "Melachim II",
+                        "chapters": 25
+                    },
+                    {
+                        "name": "Yeshayahu",
+                        "chapters": 66
+                    },
+                    {
+                        "name": "Yirmiyahu",
+                        "chapters": 52
+                    },
+                    {
+                        "name": "Yechezkel",
+                        "chapters": 48
+                    },
+                    {
+                        "name": "Trei Asar",
+                        "chapters": 67,
+                        "note": "Total chapters across 12 minor prophets"
+                    }
+                ]
+            },
+            {
+                "division": "Ketuvim",
+                "books": [
+                    {
+                        "name": "Tehillim",
+                        "chapters": 150
+                    },
+                    {
+                        "name": "Mishlei",
+                        "chapters": 31
+                    },
+                    {
+                        "name": "Iyov",
+                        "chapters": 42
+                    },
+                    {
+                        "name": "Shir HaShirim",
+                        "chapters": 8
+                    },
+                    {
+                        "name": "Rut",
+                        "chapters": 4
+                    },
+                    {
+                        "name": "Eichah",
+                        "chapters": 5
+                    },
+                    {
+                        "name": "Kohelet",
+                        "chapters": 12
+                    },
+                    {
+                        "name": "Esther",
+                        "chapters": 10
+                    },
+                    {
+                        "name": "Daniel",
+                        "chapters": 12
+                    },
+                    {
+                        "name": "Ezra",
+                        "chapters": 10
+                    },
+                    {
+                        "name": "Nechemyah",
+                        "chapters": 13
+                    },
+                    {
+                        "name": "Divrei HaYamim I",
+                        "chapters": 29
+                    },
+                    {
+                        "name": "Divrei HaYamim II",
+                        "chapters": 36
+                    }
+                ]
+            }
+        ]
+    },
+    "talmud_bavli": {
+        "total_pages": 2711,
+        "sedarim": [
+            {
+                "order": "Zeraim",
+                "tractates": [
+                    {
+                        "name": "Berakhot",
+                        "pages": 64
+                    }
+                ]
+            },
+            {
+                "order": "Moed",
+                "tractates": [
+                    {
+                        "name": "Shabbat",
+                        "pages": 157
+                    },
+                    {
+                        "name": "Eruvin",
+                        "pages": 105
+                    },
+                    {
+                        "name": "Pesachim",
+                        "pages": 121
+                    },
+                    {
+                        "name": "Shekalim",
+                        "pages": 22
+                    },
+                    {
+                        "name": "Yoma",
+                        "pages": 88
+                    },
+                    {
+                        "name": "Sukkah",
+                        "pages": 56
+                    },
+                    {
+                        "name": "Beitzah",
+                        "pages": 40
+                    },
+                    {
+                        "name": "Rosh Hashanah",
+                        "pages": 35
+                    },
+                    {
+                        "name": "Ta'anit",
+                        "pages": 31
+                    },
+                    {
+                        "name": "Megillah",
+                        "pages": 32
+                    },
+                    {
+                        "name": "Moed Katan",
+                        "pages": 29
+                    },
+                    {
+                        "name": "Chagigah",
+                        "pages": 27
+                    }
+                ]
+            },
+            {
+                "order": "Nashim",
+                "tractates": [
+                    {
+                        "name": "Yevamot",
+                        "pages": 122
+                    },
+                    {
+                        "name": "Ketubot",
+                        "pages": 112
+                    },
+                    {
+                        "name": "Nedarim",
+                        "pages": 91
+                    },
+                    {
+                        "name": "Nazir",
+                        "pages": 66
+                    },
+                    {
+                        "name": "Sotah",
+                        "pages": 49
+                    },
+                    {
+                        "name": "Gittin",
+                        "pages": 90
+                    },
+                    {
+                        "name": "Kiddushin",
+                        "pages": 82
+                    }
+                ]
+            },
+            {
+                "order": "Nezikin",
+                "tractates": [
+                    {
+                        "name": "Bava Kamma",
+                        "pages": 119
+                    },
+                    {
+                        "name": "Bava Metzia",
+                        "pages": 119
+                    },
+                    {
+                        "name": "Bava Batra",
+                        "pages": 176
+                    },
+                    {
+                        "name": "Sanhedrin",
+                        "pages": 113
+                    },
+                    {
+                        "name": "Makkot",
+                        "pages": 24
+                    },
+                    {
+                        "name": "Shevuot",
+                        "pages": 49
+                    },
+                    {
+                        "name": "Avodah Zarah",
+                        "pages": 76
+                    },
+                    {
+                        "name": "Horayot",
+                        "pages": 14
+                    }
+                ]
+            },
+            {
+                "order": "Kodashim",
+                "tractates": [
+                    {
+                        "name": "Zevachim",
+                        "pages": 120
+                    },
+                    {
+                        "name": "Menachot",
+                        "pages": 110
+                    },
+                    {
+                        "name": "Chullin",
+                        "pages": 142
+                    },
+                    {
+                        "name": "Bekhorot",
+                        "pages": 61
+                    },
+                    {
+                        "name": "Erachin",
+                        "pages": 34
+                    },
+                    {
+                        "name": "Temurah",
+                        "pages": 34
+                    },
+                    {
+                        "name": "Keritot",
+                        "pages": 28
+                    },
+                    {
+                        "name": "Me'ilah",
+                        "pages": 22
+                    },
+                    {
+                        "name": "Tamid",
+                        "pages": 9
+                    }
+                ]
+            },
+            {
+                "order": "Tahorot",
+                "tractates": [
+                    {
+                        "name": "Niddah",
+                        "pages": 73
+                    }
+                ]
+            }
+        ]
+    }
+}

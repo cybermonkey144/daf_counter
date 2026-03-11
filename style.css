@@ -66,6 +66,42 @@ body {
   margin-bottom: 12px;
 }
 
+/* ===== Tab Bar ===== */
+#tab-bar {
+  display: flex;
+  gap: 4px;
+  margin-bottom: 16px;
+  background: rgba(255, 255, 255, 0.03);
+  border-radius: 100px;
+  padding: 4px;
+  border: 1px solid var(--card-border);
+}
+
+.tab {
+  flex: 1;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 100px;
+  background: transparent;
+  color: var(--text-muted);
+  font-family: 'Outfit', sans-serif;
+  font-size: 0.9rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: var(--transition);
+  -webkit-tap-highlight-color: transparent;
+}
+
+.tab:hover {
+  color: var(--text-secondary);
+}
+
+.tab.active {
+  background: rgba(255, 255, 255, 0.08);
+  color: var(--text-primary);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+}
+
 #overall-stats {
   font-size: 0.95rem;
   color: var(--text-secondary);

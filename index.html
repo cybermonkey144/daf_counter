@@ -11,6 +11,10 @@
 <body>
   <header id="app-header">
     <h1>Daf Yomi Tracker</h1>
+    <nav id="tab-bar" role="tablist">
+      <button class="tab active" data-mode="talmud" role="tab" aria-selected="true">Talmud Bavli</button>
+      <button class="tab" data-mode="tanach" role="tab" aria-selected="false">Tanach</button>
+    </nav>
     <div id="overall-stats"></div>
     <div class="progress-bar" id="overall-progress-bar">
       <div class="progress-fill" id="overall-progress-fill"></div>
